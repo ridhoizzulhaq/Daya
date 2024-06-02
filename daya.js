@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 const xrpl = require('xrpl');
 
-const botToken = '7206422958:AAGfA82z3ZB0SIcQhkojBoEh2stkKsC6MrU'; // Replace with your actual bot token
+const botToken = ' '; // Replace with your actual bot token
 console.log('Bot Token:', botToken); // Debugging line to check the token
 
 const bot = new Telegraf(botToken);
